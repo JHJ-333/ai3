@@ -74,6 +74,27 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
        "images": ["https://cdn.newautopost.co.kr/newautopost/2025/07/01113157/formula-one.jpg"],
        "videos": ["https://www.youtube.com/watch?v=aeCI0ObFY8M"]
      },
+
+
+     labels[1]: {
+       "texts": ["페라리 화이팅"],
+       "images": ["https://cdn.newautopost.co.kr/newautopost/2025/07/01113157/formula-one.jpg"],
+       "videos": ["https://www.youtube.com/watch?v=aeCI0ObFY8M"]
+
+         
+     },
+
+     labels[2]: {
+       "texts": ["페라리 화이팅"],
+       "images": ["https://cdn.newautopost.co.kr/newautopost/2025/07/01113157/formula-one.jpg"],
+       "videos": ["https://www.youtube.com/watch?v=aeCI0ObFY8M"]
+     },
+
+     labels[3]: {
+       "texts": ["페라리 화이팅"],
+       "images": ["https://cdn.newautopost.co.kr/newautopost/2025/07/01113157/formula-one.jpg"],
+       "videos": ["https://www.youtube.com/watch?v=aeCI0ObFY8M"]
+     },
 }
 
 # ======================
