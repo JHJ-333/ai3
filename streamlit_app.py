@@ -77,23 +77,23 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
 
 
      labels[1]: {
-       "texts": ["페라리 화이팅"],
-       "images": ["https://cdn.newautopost.co.kr/newautopost/2025/07/01113157/formula-one.jpg"],
-       "videos": ["https://www.youtube.com/watch?v=aeCI0ObFY8M"]
+       "texts": ["농구 화이팅"],
+       "images": ["https://img0.yna.co.kr/photo/ap/2024/08/30/PAP20240830051001009_P4.jpg"],
+       "videos": ["https://www.youtube.com/watch?v=SvN6Ug1MUz4"]
 
          
      },
 
      labels[2]: {
-       "texts": ["페라리 화이팅"],
-       "images": ["https://cdn.newautopost.co.kr/newautopost/2025/07/01113157/formula-one.jpg"],
-       "videos": ["https://www.youtube.com/watch?v=aeCI0ObFY8M"]
+       "texts": ["야구 화이팅"],
+       "images": ["https://www.chosun.com/resizer/v2/JDNSFYNJOJBSHN72J2CCQ5LINU.jpg?auth=66691dc31df0771e880a6548c78ee11b01e0518972f4359e14adadb479e48081&width=616"],
+       "videos": ["https://www.youtube.com/watch?v=UUcvun0cWpc"]
      },
 
      labels[3]: {
-       "texts": ["페라리 화이팅"],
-       "images": ["https://cdn.newautopost.co.kr/newautopost/2025/07/01113157/formula-one.jpg"],
-       "videos": ["https://www.youtube.com/watch?v=aeCI0ObFY8M"]
+       "texts": ["토트넘 화이팅"],
+       "images": ["https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202505/22/f11ec4fc-942b-436b-85e5-8d3200adb792.jpg"],
+       "videos": ["https://www.youtube.com/watch?v=M5_DZD9_bOs"]
      },
 }
 
